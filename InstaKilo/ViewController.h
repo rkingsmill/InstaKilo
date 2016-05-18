@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Photo.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UICollectionViewDataSource, UICollectionViewDelegateFlowLayout>
 
 @end
 
