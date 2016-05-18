@@ -1,14 +1,15 @@
 //
-//  ViewController.h
+//  CollectionViewCell.m
 //  InstaKilo
 //
 //  Created by Rosalyn Kingsmill on 2016-05-18.
 //  Copyright © 2016 Rosalyn Kingsmill. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "CollectionViewCell.h"
 
-@interface ViewController : UIViewController
+@implementation CollectionViewCell
+
+
 
 @end
-
